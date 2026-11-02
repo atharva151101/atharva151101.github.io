@@ -19,7 +19,7 @@ Master's Student<br>
 Department of Computer Science<br>
 Stanford University<br>
 Email: atharvac [at] cs [dot] stanford [dot] edu<br>
-[Curriculum Vitae](/assets/pdf/Atharva_Chougule_Aug_2026.pdf)<br>
+[Curriculum Vitae](/assets/pdf/CV_Oct_2026.pdf)<br>
 [Google Scholar](https://scholar.google.com/citations?user=7oQ699AAAAAJ)<br>
 [GitHub](https://github.com/atharva151101)<br>
 <span style="color: var(--global-text-color-light);">Site last updated: {{ site.time | date: "%B, %Y" }}</span>
